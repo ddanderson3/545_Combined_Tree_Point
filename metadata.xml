@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+
+  <identifier identifierType="URL">
+    https://data-seattlecitygis.opendata.arcgis.com/datasets/15ca3b333b984fef8fda342ab0bba4d0_0
+  </identifier>
+
+  <creators>
+    <creator>
+      <creatorName>City of Seattle, Parks and Recreation</creatorName>
+      <affiliation>City of Seattle</affiliation>
+      <nameIdentifier nameIdentifierScheme="ROR" schemeURI="https://ror.org">https://ror.org/00a7a7357</nameIdentifier>
+    </creator>
+  </creators>
+
+  <titles>
+    <title>Combined_Tree_Point</title>
+  </titles>
+
+  <publisher>Seattle GeoData</publisher>
+
+  <publicationYear>2025</publicationYear>
+
+  <subjects>
+    <subject>Urban forestry</subject>
+    <subject>Street trees</subject>
+    <subject>Arboriculture</subject>
+    <subject>Green infrastructure</subject>
+    <subject>City of Seattle</subject>
+  </subjects>
+
+  <dates>
+    <date dateType="Available">2010</date>
+    <date dateType="Available">2025</date>
+    <date dateType="Updated">2025-02-15</date>
+  </dates>
+
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+
+  <formats>
+    <format>text/csv</format>
+    <format>application/x-shapefile</format>
+  </formats>
+
+  <version>1.0</version>
+
+  <rightsList>
+    <rights rightsURI="https://www.seattle.gov/open/data-policy">
+      Public domain (per City of Seattle Open Data Terms)
+    </rights>
+  </rightsList>
+
+  <descriptions>
+    <description descriptionType="Abstract">
+      Point-level locations of trees maintained by the City of Seattle.
+      Attributes include species, diameter at breast height, planting year, condition, and location coordinates.
+      Used for urban forestry management, planning, and public information.
+    </description>
+  </descriptions>
+
+  <geoLocations>
+    <geoLocation>
+      <geoLocationPlace>North America &gt; United States &gt; Washington &gt; Seattle</geoLocationPlace>
+    </geoLocation>
+  </geoLocations>
+
+  <language>en</language>
+
+  <!-- Optional: Funding reference -->
+  <fundingReferences>
+    <fundingReference>
+      <funderName>City of Seattle Parks and Recreation</funderName>
+      <funderIdentifier funderIdentifierType="ROR">https://ror.org/00a7a7357</funderIdentifier>
+      <fundingReference>Description: General budget for urban forestry and street tree management.</fundingReference>
+    </fundingReference>
+  </fundingReferences>
+
+</resource>
