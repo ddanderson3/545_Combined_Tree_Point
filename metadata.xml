@@ -41,7 +41,6 @@
 
   <formats>
     <format>text/csv</format>
-    <format>application/x-shapefile</format>
   </formats>
 
   <version>1.0</version>
