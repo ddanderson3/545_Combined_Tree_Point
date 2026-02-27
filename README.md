@@ -1,7 +1,10 @@
 545 Combined Tree Point Dataset
 
 This repository contains the following documents:
-- `data/Combined_Tree_Point_3541425034313460302.csv`  
+
+— `README file`
+
+- `Combined_Tree_Point_3541425034313460302.csv`  
   Original CSV extract of the “Combined_Tree_Point” dataset from the City of Seattle GIS portal. This file contains tree‑point locations and attributes such as species, diameter, and condition.
 
 - `metadata.xml` 
