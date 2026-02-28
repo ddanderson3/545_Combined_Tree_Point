@@ -1,6 +1,6 @@
 545 Combined Tree Point Dataset
 
-This repository contains the following documents:
+This dataset repository contains the following documents:
 
 - `README file`
 
@@ -10,11 +10,11 @@ This repository contains the following documents:
 - `metadata.xml` 
   Structured metadata record for this dataset following the DataCite metadata schema (datacite.org).
 
-- `545_Final_Report.txt`  
+- `545_Final_Report.docx`  
   Final report updated version of assignments on the Combined_Tree_Point dataset, describing data content, structure, and metadata. Includes:
   - Recommended data citation.
   - Long‑term preservation considerations.
-  - Notes on file formats and software requirements.
   - Example of appropriate copyright license statement.
-  - Human‑subjects considerations.
+
+  
  
